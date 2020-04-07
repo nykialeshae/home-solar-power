@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Go Green California</title>
+<!-- TemplateEndEditable -->
+<link href="../solar-styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<header><!-- TemplateBeginEditable name="nav" -->
+  <section id="subtitle">
+    <h1>Solar Power Can Save You Money </h1>
+    <h1>California Solar Rebates and Tax Incentives</h1>
+    <h1>Home Solar Benefits</h1>
+    <h1>Certified California Solar Contractors</h1>
+    <h1>Request More Information</h1>
+  </section>
+<!-- TemplateEndEditable --><a href="../home-solar-power.html"><img src="../images/ggc-logo.png" width="482" height="243" alt="Go Green California Logo"/></a></header>
+<div id="page-content"><!-- TemplateBeginEditable name="Page Content" -->
+  <section id="main-copy"></section>
+  <section id="main-copy2"></section>
+  <section id="main-copy3"></section>
+  <section id="main-copy4"></section>
+  <section id="form"></section><!-- TemplateEndEditable -->
+</div>
+<footer><strong>Site design by Nykia Le'Shae</strong></footer>
+</body>
+</html>
